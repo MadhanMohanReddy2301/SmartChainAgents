@@ -2,6 +2,8 @@
 
 This project is an intelligent routing system for user queries, using the LangChain framework and Groq's Gemma2-9b-It model. It allows queries to be directed to the most relevant data source — either **arxiv_search** (for AI research papers), **Wikipedia** (for human-related information), or an **LLM** (for general queries).
 
+
+![Graph Image](graph_image.png)
 ## Features
 
 - **Context-Aware Routing**: Routes user queries based on the context to either arxiv, Wikipedia, or an LLM.
